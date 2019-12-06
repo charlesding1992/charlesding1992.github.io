@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>git%20push%20-u%20origin%20master/</link>
-    <description>Recent content on </description>
+    <title>Charles Resume</title>
+    <link>http://charlesding1992.github.io/</link>
+    <description>Recent content on Charles Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="git%20push%20-u%20origin%20master/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://charlesding1992.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
